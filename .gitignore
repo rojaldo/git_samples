@@ -3,6 +3,7 @@
 *.log
 doc/**/*.txt
 !doc/file.txt
+algo.doc
 
 # ignore files related to vscode
 .vscode/*
